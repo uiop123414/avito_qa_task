@@ -12,7 +12,7 @@ playwright intstall
 
 py get_state.py
 
-# После можно запускать тестирвоание
+# После можно запускать тестирование
 
 pytest ./test/test_main.py
 
